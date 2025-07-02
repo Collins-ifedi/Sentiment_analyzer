@@ -80,5 +80,5 @@ This module is distributed under the MIT License. You are free to use, modify, a
 
 Author
 
-Part of a full-stack AI trading assistant system developed by [Your Name or Team Name].
+Part of a full-stack AI trading assistant system developed by Chukwujiekwu Collins Ifedi 
 
